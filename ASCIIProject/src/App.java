@@ -1,11 +1,11 @@
 public class App {
     public static void main(String[] args) throws Exception {
         
-        while(true) {
+        // while(true) {
             peppaPrincess();
             pumpkin(); 
-
-        }
+            Thread.sleep(300);
+        // }
     
 
 }

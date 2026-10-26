@@ -1,18 +1,4 @@
-## Getting Started
+For this project, I started by picking a character that I really enjoyed as a child: Peppa Pig. For my second drawing, I picked something fall-related. With both of these, I started out by sketching it on gridded paper, and then moved to an online ASCII drawing resource. For Peppa, I looked up a reference picture to model my drawing off of, but the pumpkin was fully based off imagination.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Citation Points:
+The drawings and code are all my own. Points: 1
